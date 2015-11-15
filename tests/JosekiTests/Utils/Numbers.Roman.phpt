@@ -2,7 +2,7 @@
 
 namespace TestCases\DataTransfers;
 
-use Netiso\Joseki\Numbers\Roman;
+use Joseki\Utils\Numbers\Roman;
 use Tester\Assert;
 
 require __DIR__ . '/../bootstrap.php';

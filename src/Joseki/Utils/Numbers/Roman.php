@@ -1,6 +1,6 @@
 <?php
 
-namespace Netiso\Joseki\Numbers;
+namespace Joseki\Utils\Numbers;
 
 use Nette\Utils\Strings;
 
